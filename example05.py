@@ -1,4 +1,4 @@
-import tkinter as tk
+import FreeSimpleGUI  as FSGUI
 
 def click(value):
     current = entry.get()
